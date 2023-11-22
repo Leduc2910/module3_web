@@ -1,0 +1,13 @@
+tbody tr {
+    text-align: center;
+}
+
+tbody td, th {
+    padding: 10px 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+
